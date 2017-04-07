@@ -1,3 +1,46 @@
+<a name="0.12.0"></a>
+# [0.12.0](https://github.com/leonardokl/gitlab-chrome-extension/compare/v0.11.0...v0.12.0) (2017-04-01)
+
+
+### Features
+
+* Add login via cookie ([dfbd0d4](https://github.com/leonardokl/gitlab-chrome-extension/commit/dfbd0d4))
+* Create issues ([a5f3ebe](https://github.com/leonardokl/gitlab-chrome-extension/commit/a5f3ebe))
+* Search projects while the user is typing ([149ef87](https://github.com/leonardokl/gitlab-chrome-extension/commit/149ef87))
+* **New Issue:** Add Assign to me option ([7ad46ab](https://github.com/leonardokl/gitlab-chrome-extension/commit/7ad46ab))
+* **New Issue:** Generate branch name when an issue is created ([83673fd](https://github.com/leonardokl/gitlab-chrome-extension/commit/83673fd))
+
+
+
+<a name="0.11.0"></a>
+# [0.11.0](https://github.com/leonardokl/gitlab-chrome-extension/compare/v0.10.0...v0.11.0) (2017-04-01)
+
+
+
+<a name="0.10.0"></a>
+# [0.10.0](https://github.com/leonardokl/gitlab-chrome-extension/compare/v0.9.1...v0.10.0) (2017-03-30)
+
+
+### Features
+
+* Add close button to the search input ([8336c09](https://github.com/leonardokl/gitlab-chrome-extension/commit/8336c09))
+* Add option to open the new project page ([9611fdb](https://github.com/leonardokl/gitlab-chrome-extension/commit/9611fdb))
+* Add todos count ([b9e6bed](https://github.com/leonardokl/gitlab-chrome-extension/commit/b9e6bed))
+* Swap pinned positions with DnD ([22b3549](https://github.com/leonardokl/gitlab-chrome-extension/commit/22b3549))
+
+
+
+<a name="0.9.1"></a>
+## [0.9.1](https://github.com/leonardokl/gitlab-chrome-extension/compare/v0.9.0...v0.9.1) (2017-02-17)
+
+
+### Bug Fixes
+
+* add margin-bottom to containers issue-branch-name and access-token ([73c5511](https://github.com/leonardokl/gitlab-chrome-extension/commit/73c5511))
+* Update chrome selector of branch name ([d62d433](https://github.com/leonardokl/gitlab-chrome-extension/commit/d62d433))
+
+
+
 <a name="0.9.0"></a>
 # [0.9.0](https://github.com/leonardokl/gitlab-chrome-extension/compare/v0.8.0...v0.9.0) (2016-11-09)
 

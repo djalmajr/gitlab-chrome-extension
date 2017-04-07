@@ -1,13 +1,19 @@
 {
   "manifest_version": 2,
-  "name": "Gitlab Chrome Extension",
-  "description": "Copy Gitlab new branch name to clipboard",
-  "version": "0.0.1",
+  "name": "Gitlab Manager",
+  "description": "Quickly access all of your projects",
+  "version": "0.10.0",
 
   "browser_action": {
    "default_icon": "public/images/logo.png",
    "default_popup": "public/index.html"
   },
 
-  "permissions": [ "storage", "activeTab", "tabs", "https://gitlab.com/*" ]
+  "permissions": [
+    "notifications",
+    "storage",
+    "activeTab",
+    "tabs",
+    "https://gitlab.com/*"
+  ]
 }
